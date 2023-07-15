@@ -36,7 +36,7 @@ export interface DataBufferQueue<T extends any> {
     /**
      * flushes buffer and returns iterable array filled with all data stored within (empty if nothing was stored)
      */
-    flush(): T[]|undefined;
+    flush(): T[];
 };
 
 /**
