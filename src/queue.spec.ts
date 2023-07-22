@@ -1,3 +1,7 @@
+/*--------------------------
+ * Created by: VNDG.
+ * Package: blazing-buffer
+ *-------------------------*/
 
 import {createDataBuffer} from './buffer.struct'
 

@@ -1,0 +1,28 @@
+{
+  "name": "@vndg/blazing-buffer",
+  "version": "1.0.0",
+  "description": "Queue-like blazingly fast buffer struct",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vndg-rdmt/blazing-buffer-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "buffer",
+    "data-structure",
+    "structure",
+    "fast",
+    "queue",
+    "store"
+  ],
+  "author": "vndg-rdmt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vndg-rdmt/blazing-buffer-ts/issues"
+  },
+  "homepage": "https://github.com/vndg-rdmt/blazing-buffer-ts#readme"
+}
