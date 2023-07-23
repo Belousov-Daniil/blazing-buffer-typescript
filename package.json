@@ -1,5 +1,5 @@
 {
-  "name": "@vndg/blazing-buffer",
+  "name": "@rdmt-studios/blazing-buffer",
   "version": "1.0.0",
   "description": "Queue-like blazingly fast buffer struct",
   "main": "index.ts",
